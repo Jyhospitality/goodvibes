@@ -1,0 +1,460 @@
+Uri: http://gardenhotel.in/
+File Name: C:\Downloaded Web Sites\gardenhotel.in\index.htm
+Content Type: text/html
+
+Uri: http://gardenhotel.in/contact.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\contact.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\bootstrap.css
+Content Type: text/css
+
+Uri: http://gardenhotel.in/css/flexslider.css
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\flexslider.css
+Content Type: text/css
+
+Uri: http://gardenhotel.in/css/font-awesome.css
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://gardenhotel.in/css/images/IMG_20171125_161919104.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\images\IMG_20171125_161919104.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/css/jquery-ui.css
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\jquery-ui.css
+Content Type: text/css
+
+Uri: http://gardenhotel.in/css/lightbox.css
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\lightbox.css
+Content Type: text/css
+
+Uri: http://gardenhotel.in/css/plain.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\plain.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/css/popuo-box.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\popuo-box.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/css/style.css
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\style.css
+Content Type: text/css
+
+Uri: http://gardenhotel.in/css/ui-bg_flat_0_aaaaaa_40x100.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\ui-bg_flat_0_aaaaaa_40x100.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/css/ui-bg_glass_65_ffffff_1x400.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\ui-bg_glass_65_ffffff_1x400.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/css/ui-bg_glass_95_fef1ec_1x400.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\ui-bg_glass_95_fef1ec_1x400.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/css/zoomslider.css
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css\zoomslider.css
+Content Type: text/css
+
+Uri: http://gardenhotel.in/dining.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\dining.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/fonts/fontawesome-webfont5b62.eot?v=4.6.3
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\fontawesome-webfont5b62.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gardenhotel.in/fonts/fontawesome-webfont5b62.svg?v=4.6.3
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\fontawesome-webfont5b62.svg
+Content Type: image/svg+xml
+
+Uri: http://gardenhotel.in/fonts/fontawesome-webfont5b62.ttf?v=4.6.3
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\fontawesome-webfont5b62.ttf
+Content Type: application/octet-stream
+
+Uri: http://gardenhotel.in/fonts/fontawesome-webfont5b62.woff2?v=4.6.3
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\fontawesome-webfont5b62.woff2
+Content Type: font/x-woff2
+
+Uri: http://gardenhotel.in/fonts/fontawesome-webfont5b62.woff?v=4.6.3
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\fontawesome-webfont5b62.woff
+Content Type: font/x-woff
+
+Uri: http://gardenhotel.in/fonts/fontawesome-webfontd41d.eot?
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\fontawesome-webfontd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gardenhotel.in/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gardenhotel.in/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: http://gardenhotel.in/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/octet-stream
+
+Uri: http://gardenhotel.in/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\glyphicons-halflings-regular.woff
+Content Type: font/x-woff
+
+Uri: http://gardenhotel.in/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/x-woff2
+
+Uri: http://gardenhotel.in/fonts/glyphicons-halflings-regulard41d.eot?
+File Name: C:\Downloaded Web Sites\gardenhotel.in\fonts\glyphicons-halflings-regulard41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://gardenhotel.in/gallery.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\gallery.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/images/b1.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\b1.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/images/bandra-worli-sea-link.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\bandra-worli-sea-link.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/c-arrows.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\c-arrows.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/close.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\close.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/contactLessCheckIn.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\contactLessCheckIn.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/coverbg.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\coverbg.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/covid-safety.mp4
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\covid-safety.mp4
+Content Type: video/mp4
+
+Uri: http://gardenhotel.in/images/dots.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\dots.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/images/gallery/c1.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\c1.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/c2.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\c2.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/c3.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\c3.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/Cafe.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\Cafe.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/Cafe1.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\Cafe1.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/g2.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\g2.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/Garden.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\Garden.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/MainImage.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\MainImage.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/Reception.JPG
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\Reception.JPG
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/gallery/TajView2.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\gallery\TajView2.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/garden.ico
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\garden.ico
+Content Type: image/x-icon
+
+Uri: http://gardenhotel.in/images/Haji-Ali-Dargah.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\Haji-Ali-Dargah.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/logo1.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\logo1.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/logo3.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\logo3.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/move-top.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\move-top.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/mumbai-gateway-of-india.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\mumbai-gateway-of-india.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/mumbai-marine-drive.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\mumbai-marine-drive.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/mumbai-sanjay-park.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\mumbai-sanjay-park.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/mumbai-siddhivinayak-temple.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\mumbai-siddhivinayak-temple.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/10.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\10.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/12.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\12.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/13.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\13.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/14.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\14.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/15.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\15.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/16.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\16.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/19.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\19.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/20.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\20.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/21.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\21.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/22.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\22.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/23.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\23.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/24.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\24.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/25.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\25.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/35.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\35.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/36.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\36.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/37.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\37.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/4.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\4.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/40.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\40.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/42.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\42.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/43.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\43.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/44.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\44.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/45.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\45.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/5.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\5.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/8.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\8.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/newimg/9.jpg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\newimg\9.jpg
+Content Type: image/jpeg
+
+Uri: http://gardenhotel.in/images/next.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\next.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/offers2.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\offers2.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/prev.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\prev.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/room.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\room.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/sanitization.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\sanitization.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/images/social-icons.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\social-icons.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/images/TemperatureChecks.svg
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\TemperatureChecks.svg
+Content Type: image/svg+xml
+
+Uri: http://gardenhotel.in/images/vaccinatedStaff.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\images\vaccinatedStaff.png
+Content Type: image/png
+
+Uri: http://gardenhotel.in/index.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\index.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/js/bootstrap.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\bootstrap.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/easing.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\easing.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/jquery-2.1.4.min.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\jquery-2.1.4.min.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/jquery-ui.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\jquery-ui.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/jquery.flexslider.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\jquery.flexslider.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/jquery.zoomslider.min.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\jquery.zoomslider.min.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/lightbox-plus-jquery.min.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\lightbox-plus-jquery.min.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/main.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\main.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/modernizr-2.6.2.min.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\modernizr-2.6.2.min.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/move-top.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\move-top.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/js/simplePlayer.js
+File Name: C:\Downloaded Web Sites\gardenhotel.in\js\simplePlayer.js
+Content Type: application/javascript
+
+Uri: http://gardenhotel.in/offer.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\offer.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/rooms.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\rooms.html
+Content Type: text/html
+
+Uri: http://gardenhotel.in/things-to-do.html
+File Name: C:\Downloaded Web Sites\gardenhotel.in\things-to-do.html
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@9
+File Name: C:\Downloaded Web Sites\gardenhotel.in\npm\sweetalert2@9
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Comfortaa|PT+Sans+Caption
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Lobster
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Oswald&display=swap
+File Name: C:\Downloaded Web Sites\gardenhotel.in\css-3
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/comfortaa/v40/1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+File Name: C:\Downloaded Web Sites\gardenhotel.in\s\comfortaa\v40\1Pt_g8LJRfWJmhDAuUsSQamb1W0lwk4S4WjMDrMfJQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lobster/v28/neILzCirqoswsqX9zoKmNg.ttf
+File Name: C:\Downloaded Web Sites\gardenhotel.in\s\lobster\v28\neILzCirqoswsqX9zoKmNg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v48/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: C:\Downloaded Web Sites\gardenhotel.in\s\oswald\v48\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ptsanscaption/v18/0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_0.ttf
+File Name: C:\Downloaded Web Sites\gardenhotel.in\s\ptsanscaption\v18\0FlMVP6Hrxmt7-fsUFhlFXNIlpcaeg_0.ttf
+Content Type: font/ttf
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-157531931-3
+File Name: C:\Downloaded Web Sites\gardenhotel.in\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.tripadvisor.com/wejs?wtype=cdswritereviewlg&uniq=947&locationId=1135687&lang=en_IN&lang=en_IN&display_version=2
+File Name: C:\Downloaded Web Sites\gardenhotel.in\wejs
+Content Type: application/x-javascript
+
+Uri: https://www.tripadvisor.in/img/cdsi/img2/branding/medium-logo-12097-2.png
+File Name: C:\Downloaded Web Sites\gardenhotel.in\img\cdsi\img2\branding\medium-logo-12097-2.png
+Content Type: image/png
+
